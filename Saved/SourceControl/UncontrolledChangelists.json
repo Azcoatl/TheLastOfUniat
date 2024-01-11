@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub repositorios/TheLastOfUniat/Content/AI_Enemies/BD_AI.uasset",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/AI_Enemies/BP_AIController_Generic.uasset",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/AI_Enemies/BT_AI.uasset",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/AI_Enemies/BP_AI.uasset",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/AI_Enemies/BP_AI1.uasset",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/AI_Enemies/Tasks/BT_Task_PatrolRandomPoint.uasset",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/GitHub repositorios/TheLastOfUniat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WL/CGPK60WGO7ERWGCV4PZ91Y.uasset",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/TheLastOfUniat/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
