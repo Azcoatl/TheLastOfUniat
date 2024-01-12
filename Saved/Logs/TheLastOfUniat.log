@@ -1384,3 +1384,649 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.12-18.58.39:599][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.428ms to complete.
 [2024.01.12-18.58.39:599][109]LogFileHelpers: Loading map 'Bosque' took 1.500
 [2024.01.12-18.58.49:934][896]LogDerivedDataCache: C:/Users/fabir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.847 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7381 files in 9225 folders with total size 2404 MiB.
+[2024.01.12-19.01.29:742][964]LogSlate: Took 0.462743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.12-19.01.48:831][937]LogSlate: Window 'New Level' being destroyed
+[2024.01.12-19.01.48:858][937]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.12-19.01.48:862][937]LightingResults: New page: Lighting Build
+[2024.01.12-19.01.48:862][937]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.01.12-19.01.48:873][937]LogWorld: UWorld::CleanupWorld for Bosque, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.01.48:873][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.01.48:874][937]MapCheck: New page: Map Check
+[2024.01.12-19.01.48:874][937]LightingResults: New page: Lighting Build
+[2024.01.12-19.01.48:940][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-19.01.49:675][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.01.12-19.01.49:962][937]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.01.12-19.01.49:963][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.01.49:963][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.01.49:964][937]LogAIModule: Creating AISystem for world Untitled_1
+[2024.01.12-19.01.50:462][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.12-19.01.50:511][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.01.12-19.01.50:512][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.12-19.01.50:513][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.738ms to complete.
+[2024.01.12-19.01.50:513][937]LogFileHelpers: Loading map 'Template_Default' took 1.655
+[2024.01.12-19.01.54:609][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.01.54:724][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.01.56:147][434]Cmd: DELETE
+[2024.01.12-19.01.56:147][434]Cmd: ACTOR DELETE
+[2024.01.12-19.01.56:350][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.12-19.01.56:418][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.12-19.01.56:420][434]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2024.01.12-19.02.10:429][926]LogSlate: Window 'Save Level As' being destroyed
+[2024.01.12-19.02.10:911][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.12-19.02.10:938][926]LogPackageLocalizationCache: Processed 44 localized package path(s) for 2 prioritized culture(s) in 0.025013 seconds
+[2024.01.12-19.02.10:948][926]LogSerialization: UsePackageTrailer: 'true'
+[2024.01.12-19.02.10:969][926]LogSavePackage: Moving output files for package: /Game/NewLevels/Ciudad
+[2024.01.12-19.02.10:969][926]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/CiudadE304459C4321D08B2434EB80629DA0E1.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/NewLevels/Ciudad.umap'
+[2024.01.12-19.02.11:036][926]LogFileHelpers: Saving map 'Ciudad' took 0.510
+[2024.01.12-19.02.11:036][926]Cmd: MAP LOAD FILE="../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/NewLevels/Ciudad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.12-19.02.11:036][926]LightingResults: New page: Lighting Build
+[2024.01.12-19.02.11:036][926]LoadErrors: New page: Loading map: Ciudad.umap
+[2024.01.12-19.02.11:040][926]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.02.11:040][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.02.11:041][926]MapCheck: New page: Map Check
+[2024.01.12-19.02.11:041][926]LightingResults: New page: Lighting Build
+[2024.01.12-19.02.11:068][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-19.02.11:070][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.12-19.02.11:077][926]LogAudio: Display: Audio Device (ID: 1) registered with world 'Ciudad'.
+[2024.01.12-19.02.11:077][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.02.11:077][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.02.11:078][926]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.02.11:177][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.12-19.02.11:201][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.12-19.02.11:207][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.12-19.02.11:207][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2024.01.12-19.02.11:207][926]LogFileHelpers: Loading map 'Ciudad' took 0.170
+[2024.01.12-19.02.11:211][926]AssetCheck: New page: Asset Save: Ciudad
+[2024.01.12-19.02.11:211][926]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewLevels/Ciudad.Ciudad
+[2024.01.12-19.02.15:549][401]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.12-19.02.15:560][401]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.12-19.02.15:569][402]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.12-19.02.17:614][648]LogContentBrowser: Attempting asset rename: NewFolder -> Blocking
+[2024.01.12-19.02.17:615][648]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.12-19.02.23:263][987]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\UNIVERSIDAD\5to SEMESTRE\Taller de Videojuegos\FinalPart\Blocking.fbx)
+[2024.01.12-19.02.23:781][987]LogFbx: Loading FBX Scene from D:\UNIVERSIDAD\5to SEMESTRE\Taller de Videojuegos\FinalPart\Blocking.fbx
+[2024.01.12-19.02.23:906][987]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.12-19.02.25:621][987]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.12-19.02.25:948][987]LogFbx: Display: Triangulating static mesh pCube34
+[2024.01.12-19.02.26:652][987]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: ================================================
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Total job queries 28, among them cache hits 0 (0.00%)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Tracking 25 distinct input hashes that result in 13 distinct outputs (52.00%)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: RAM used: 511.19 KiB of 819.20 MiB budget. Usage: 0.06%
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Shaders Compiled: 25
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Jobs assigned 28, completed 25 (89.29%)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Average time worker was idle: 25.54 s
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Time job spent in pending queue: average 5.54 s, longest 13.58 s
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Job execution time: average 1.80 s, max 2.84 s
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Job life time (pending + execution): average 7.93 s, max 14.80
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.51 s
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Average processing rate: 1.51 jobs/sec
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Total thread time: 37.264 s
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Total thread preprocess time: 1.605 s
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Percentage time preprocessing: 4.31%
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Effective parallelization: 2.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 2.43 sec, max 2.66 sec, min 2.25 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.76 sec, max 2.12 sec, min 1.07 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.51 sec, max 1.73 sec, min 1.02 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 1.26 sec, max 1.38 sec, min 1.09 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 1.20 sec, max 1.58 sec, min 0.71 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 26.08% of total time (compiled    4 times, average 2.43 sec, max 2.66 sec, min 2.25 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.27% of total time (compiled    5 times, average 1.51 sec, max 1.73 sec, min 1.02 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.94% of total time (compiled    4 times, average 1.76 sec, max 2.12 sec, min 1.07 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.58% of total time (compiled    4 times, average 1.26 sec, max 1.38 sec, min 1.09 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 12.84% of total time (compiled    4 times, average 1.20 sec, max 1.58 sec, min 0.71 sec)
+[2024.01.12-19.02.28:849][174]LogShaderCompilers: Display: ================================================
+[2024.01.12-19.02.28:937][184]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.12-19.02.28:944][184]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.12-19.02.29:410][238]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-19.02.29:418][238]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-19.02.31:538][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking
+[2024.01.12-19.02.31:542][468]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking
+[2024.01.12-19.02.31:544][468]LogActorFactory: Actor Factory spawned StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking as actor: StaticMeshActor /Game/NewLevels/Ciudad.Ciudad:PersistentLevel.StaticMeshActor_0
+[2024.01.12-19.02.32:366][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking
+[2024.01.12-19.02.32:367][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking
+[2024.01.12-19.02.32:368][523]LogActorFactory: Actor Factory spawned StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking as actor: StaticMeshActor /Game/NewLevels/Ciudad.Ciudad:PersistentLevel.StaticMeshActor_2
+[2024.01.12-19.02.35:236][837]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.12-19.02.37:601][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-19.02.37:665][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-19.02.37:677][ 57]PIE: New page: PIE session: Ciudad (12 ene. 2024 7:02:37)
+[2024.01.12-19.02.37:706][ 57]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.01.12-19.02.37:706][ 57]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.01.12-19.02.37:739][ 57]LogPlayLevel: Creating play world package: /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.02.37:749][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009881s)
+[2024.01.12-19.02.37:749][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewLevels/Ciudad.Ciudad to /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad (0.010153s)
+[2024.01.12-19.02.37:749][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.02.37:750][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.02.37:751][ 57]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.02.37:754][ 57]LogPlayLevel: PIE: World Init took: (0.004881s)
+[2024.01.12-19.02.37:816][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.01.12-19.02.37:826][ 57]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.12-19.02.37:826][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-19.02.37:826][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-19.02.37:826][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-19.02.37:826][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-19.02.37:827][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-19.02.37:827][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.12-19.02.37:827][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-19.02.37:827][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-19.02.37:828][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-19.02.37:828][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-19.02.37:828][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-19.02.37:835][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-19.02.38:057][ 57]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.01.12-19.02.38:058][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-19.02.38:058][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-19.02.38:059][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-19.02.38:062][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.12-19.02.38:063][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.12-19.02.38:068][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.12-19.02.38:069][ 57]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.12-19.02.38:069][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.12-19.02.38:069][ 57]LogAudio: Display: Audio Device (ID: 2) registered with world 'Ciudad'.
+[2024.01.12-19.02.38:069][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.12-19.02.38:099][ 57]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.12-19.02.38:107][ 57]LogWorld: Bringing World /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad up for play (max tick rate 0) at 2024.01.12-13.02.38
+[2024.01.12-19.02.38:109][ 57]LogWorld: Bringing up level for play took: 0.003102
+[2024.01.12-19.02.38:117][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.01.12-19.02.38:632][ 57]PIE: Server logged in
+[2024.01.12-19.02.38:634][ 57]PIE: Play in editor total start time 1.01 seconds.
+[2024.01.12-19.02.41:963][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.02.41:963][376]LogWorld: BeginTearingDown for /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.02.41:964][376]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.02.41:965][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.02.41:983][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-19.02.41:989][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.02.42:024][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-19.02.42:025][376]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.12-19.02.42:051][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.12-19.02.42:056][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.12-19.02.42:075][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.02.42:083][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.01.12-19.02.42:220][377]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.01.12-19.02.47:248][906]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-19.02.47:255][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-19.02.47:255][906]PIE: New page: PIE session: Ciudad (12 ene. 2024 7:02:47)
+[2024.01.12-19.02.47:291][906]LogPlayLevel: Creating play world package: /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.02.47:294][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003140s)
+[2024.01.12-19.02.47:294][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewLevels/Ciudad.Ciudad to /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad (0.003201s)
+[2024.01.12-19.02.47:294][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.02.47:294][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.02.47:295][906]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.02.47:295][906]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2024.01.12-19.02.47:318][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.12-19.02.47:319][906]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.12-19.02.47:319][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-19.02.47:319][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-19.02.47:320][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-19.02.47:320][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-19.02.47:321][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-19.02.47:325][906]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-19.02.47:496][906]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.01.12-19.02.47:500][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-19.02.47:500][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-19.02.47:500][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-19.02.47:503][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.12-19.02.47:504][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.12-19.02.47:508][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.12-19.02.47:508][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.12-19.02.47:509][906]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.12-19.02.47:509][906]LogAudio: Display: Audio Device (ID: 3) registered with world 'Ciudad'.
+[2024.01.12-19.02.47:509][906]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.12-19.02.47:518][906]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.12-19.02.47:519][906]LogWorld: Bringing World /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad up for play (max tick rate 0) at 2024.01.12-13.02.47
+[2024.01.12-19.02.47:520][906]LogWorld: Bringing up level for play took: 0.001630
+[2024.01.12-19.02.47:527][906]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.01.12-19.02.47:544][906]PIE: Server logged in
+[2024.01.12-19.02.47:546][906]PIE: Play in editor total start time 0.29 seconds.
+[2024.01.12-19.02.49:232][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.02.49:232][ 81]LogWorld: BeginTearingDown for /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.02.49:232][ 81]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.02.49:233][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.02.49:241][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-19.02.49:246][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.02.49:282][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.02.49:282][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.12-19.02.49:282][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.12-19.02.49:288][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.12-19.02.49:315][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.12-19.02.49:387][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.01.12-19.02.55:076][624]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking
+[2024.01.12-19.02.55:520][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.02.55:520][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.02.55:805][624]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.01.12-19.02.57:060][624]LogViewport: Scene viewport resized to 346x407, mode Windowed.
+[2024.01.12-19.02.58:820][721]LogViewport: Scene viewport resized to 745x590, mode Windowed.
+[2024.01.12-19.03.16:473][372]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.12-19.03.31:164][407]Cmd: MODE SCALEGRID=0
+[2024.01.12-19.05.10:915][465]LogEditorTransaction: Undo Translate Collision
+[2024.01.12-19.05.28:758][582]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-19.05.28:766][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-19.05.28:766][582]PIE: New page: PIE session: Ciudad (12 ene. 2024 7:05:28)
+[2024.01.12-19.05.28:766][582]LogPlayLevel: Creating play world package: /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.05.28:768][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002284s)
+[2024.01.12-19.05.28:768][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewLevels/Ciudad.Ciudad to /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad (0.002325s)
+[2024.01.12-19.05.28:769][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.05.28:769][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.05.28:769][582]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.05.28:769][582]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2024.01.12-19.05.28:818][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.12-19.05.28:819][582]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.12-19.05.28:820][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-19.05.28:820][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-19.05.28:820][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-19.05.28:820][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-19.05.28:820][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-19.05.28:822][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-19.05.29:008][582]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.01.12-19.05.29:013][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-19.05.29:014][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-19.05.29:015][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-19.05.29:019][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.12-19.05.29:019][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.12-19.05.29:025][582]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.12-19.05.29:026][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.12-19.05.29:026][582]LogAudio: Display: Audio Device (ID: 4) registered with world 'Ciudad'.
+[2024.01.12-19.05.29:026][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.12-19.05.29:026][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.12-19.05.29:035][582]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.12-19.05.29:038][582]LogWorld: Bringing World /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad up for play (max tick rate 0) at 2024.01.12-13.05.29
+[2024.01.12-19.05.29:038][582]LogWorld: Bringing up level for play took: 0.002603
+[2024.01.12-19.05.29:048][582]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.01.12-19.05.29:067][582]PIE: Server logged in
+[2024.01.12-19.05.29:069][582]PIE: Play in editor total start time 0.304 seconds.
+[2024.01.12-19.05.39:461][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.05.39:461][716]LogWorld: BeginTearingDown for /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.05.39:461][716]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.05.39:461][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.05.39:465][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-19.05.39:468][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.05.39:480][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-19.05.39:480][716]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.12-19.05.39:480][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.12-19.05.39:482][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.12-19.05.39:489][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.05.39:491][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.12-19.05.39:532][717]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.01.12-19.05.45:989][241]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-19.05.45:996][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-19.05.45:997][241]PIE: New page: PIE session: Ciudad (12 ene. 2024 7:05:45)
+[2024.01.12-19.05.45:997][241]LogPlayLevel: Creating play world package: /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.05.45:999][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002271s)
+[2024.01.12-19.05.45:999][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewLevels/Ciudad.Ciudad to /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad (0.002317s)
+[2024.01.12-19.05.45:999][241]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.05.45:999][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.05.46:000][241]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.05.46:000][241]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2024.01.12-19.05.46:013][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.12-19.05.46:015][241]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.12-19.05.46:015][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-19.05.46:015][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-19.05.46:015][241]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-19.05.46:015][241]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-19.05.46:015][241]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-19.05.46:018][241]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-19.05.46:073][241]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.01.12-19.05.46:074][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-19.05.46:074][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-19.05.46:074][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-19.05.46:075][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.12-19.05.46:075][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.12-19.05.46:077][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.12-19.05.46:077][241]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.12-19.05.46:077][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.12-19.05.46:077][241]LogAudio: Display: Audio Device (ID: 5) registered with world 'Ciudad'.
+[2024.01.12-19.05.46:077][241]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.12-19.05.46:081][241]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.12-19.05.46:082][241]LogWorld: Bringing World /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad up for play (max tick rate 0) at 2024.01.12-13.05.46
+[2024.01.12-19.05.46:082][241]LogWorld: Bringing up level for play took: 0.000855
+[2024.01.12-19.05.46:085][241]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.01.12-19.05.46:090][241]PIE: Server logged in
+[2024.01.12-19.05.46:091][241]PIE: Play in editor total start time 0.095 seconds.
+[2024.01.12-19.05.53:312][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.05.53:312][ 29]LogWorld: BeginTearingDown for /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.05.53:312][ 29]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.05.53:313][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.05.53:323][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-19.05.53:330][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.05.53:367][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.05.53:368][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.12-19.05.53:368][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.12-19.05.53:374][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.12-19.05.53:400][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.01.12-19.05.53:541][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.01.12-19.05.57:462][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-19.05.57:469][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-19.05.57:469][335]PIE: New page: PIE session: Ciudad (12 ene. 2024 7:05:57)
+[2024.01.12-19.05.57:501][335]LogPlayLevel: Creating play world package: /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.05.57:504][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002380s)
+[2024.01.12-19.05.57:504][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewLevels/Ciudad.Ciudad to /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad (0.002425s)
+[2024.01.12-19.05.57:504][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.05.57:504][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.05.57:505][335]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.05.57:505][335]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2024.01.12-19.05.57:519][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.12-19.05.57:521][335]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.12-19.05.57:521][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-19.05.57:521][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-19.05.57:522][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-19.05.57:522][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-19.05.57:522][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-19.05.57:524][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-19.05.57:663][335]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.01.12-19.05.57:665][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-19.05.57:665][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-19.05.57:666][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-19.05.57:668][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.01.12-19.05.57:668][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.01.12-19.05.57:675][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.01.12-19.05.57:675][335]LogInit: FAudioDevice initialized with ID 6.
+[2024.01.12-19.05.57:676][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.01.12-19.05.57:676][335]LogAudio: Display: Audio Device (ID: 6) registered with world 'Ciudad'.
+[2024.01.12-19.05.57:676][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.12-19.05.57:685][335]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.12-19.05.57:687][335]LogWorld: Bringing World /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad up for play (max tick rate 0) at 2024.01.12-13.05.57
+[2024.01.12-19.05.57:688][335]LogWorld: Bringing up level for play took: 0.002270
+[2024.01.12-19.05.57:696][335]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.01.12-19.05.57:713][335]PIE: Server logged in
+[2024.01.12-19.05.57:715][335]PIE: Play in editor total start time 0.247 seconds.
+[2024.01.12-19.06.01:922][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.06.01:922][775]LogWorld: BeginTearingDown for /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.06.01:922][775]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.06.01:923][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.06.01:932][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-19.06.01:939][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.06.01:976][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.06.01:976][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.12-19.06.01:976][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.12-19.06.01:982][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.12-19.06.02:007][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.01.12-19.06.02:119][776]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.01.12-19.06.08:740][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-19.06.08:748][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-19.06.08:748][270]PIE: New page: PIE session: Ciudad (12 ene. 2024 7:06:08)
+[2024.01.12-19.06.08:748][270]LogPlayLevel: Creating play world package: /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.06.08:751][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002442s)
+[2024.01.12-19.06.08:751][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewLevels/Ciudad.Ciudad to /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad (0.002483s)
+[2024.01.12-19.06.08:751][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.06.08:751][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.06.08:752][270]LogAIModule: Creating AISystem for world Ciudad
+[2024.01.12-19.06.08:752][270]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2024.01.12-19.06.08:765][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.12-19.06.08:766][270]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.12-19.06.08:766][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-19.06.08:766][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-19.06.08:767][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-19.06.08:767][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-19.06.08:767][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-19.06.08:769][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-19.06.08:825][270]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.01.12-19.06.08:826][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-19.06.08:826][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-19.06.08:826][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-19.06.08:826][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.12-19.06.08:826][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.12-19.06.08:829][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.12-19.06.08:829][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.12-19.06.08:829][270]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.12-19.06.08:829][270]LogAudio: Display: Audio Device (ID: 7) registered with world 'Ciudad'.
+[2024.01.12-19.06.08:829][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.12-19.06.08:832][270]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.12-19.06.08:833][270]LogWorld: Bringing World /Game/NewLevels/UEDPIE_0_Ciudad.Ciudad up for play (max tick rate 0) at 2024.01.12-13.06.08
+[2024.01.12-19.06.08:833][270]LogWorld: Bringing up level for play took: 0.000668
+[2024.01.12-19.06.08:836][270]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.01.12-19.06.08:841][270]PIE: Server logged in
+[2024.01.12-19.06.08:842][270]PIE: Play in editor total start time 0.093 seconds.
+[2024.01.12-19.06.12:881][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.06.12:881][711]LogWorld: BeginTearingDown for /Game/NewLevels/UEDPIE_0_Ciudad
+[2024.01.12-19.06.12:881][711]LogWorld: UWorld::CleanupWorld for Ciudad, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.06.12:881][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.06.12:885][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-19.06.12:887][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.06.12:898][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-19.06.12:898][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.12-19.06.12:898][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.12-19.06.12:900][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.12-19.06.12:908][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.12-19.06.12:962][712]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.01.12-19.06.28:297][ 16]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.12-19.06.28:316][ 16]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.12-19.06.28:332][ 17]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.12-19.06.30:623][220]LogContentBrowser: Attempting asset rename: NewFolder -> PP
+[2024.01.12-19.06.30:624][220]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.12-19.06.40:553][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\UNIVERSIDAD\5to SEMESTRE\Taller de Videojuegos\FinalPart\PP.fbx)
+[2024.01.12-19.06.41:939][451]LogFbx: Loading FBX Scene from D:\UNIVERSIDAD\5to SEMESTRE\Taller de Videojuegos\FinalPart\PP.fbx
+[2024.01.12-19.06.45:017][451]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.12-19.06.48:382][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.12-19.06.48:426][451]LogFbx: Valid bind pose for Pose (skinCluster1) - Camisa3
+[2024.01.12-19.06.48:434][451]LogMaterial: Display: Material /Game/PP/standardSurface5.standardSurface5 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:545][451]LogMaterial: Display: Material /Game/PP/standardSurface3.standardSurface3 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:618][451]LogMaterial: Display: Material /Game/PP/standardSurface8.standardSurface8 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:696][451]LogMaterial: Display: Material /Game/PP/standardSurface2.standardSurface2 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:770][451]LogMaterial: Display: Material /Game/PP/standardSurface6.standardSurface6 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:843][451]LogMaterial: Display: Material /Game/PP/standardSurface4.standardSurface4 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:916][451]LogMaterial: Display: Material /Game/PP/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.48:988][451]LogMaterial: Display: Material /Game/PP/aiStandardSurface1.aiStandardSurface1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.12-19.06.49:059][451]LogFbx: Triangulating skeletal mesh Camisa3
+[2024.01.12-19.06.52:707][451]LogFbx: Bones digested - 67  Depth of hierarchy - 13
+[2024.01.12-19.06.53:534][451]LogSkeletalMesh: Display: /Game/PP/PP.PP ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 0: Material=0, 1472 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 1: Material=1, 1018 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 2: Material=2, 168 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 3: Material=3, 2872 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 4: Material=4, 1210 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 5: Material=5, 564 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 6: Material=6, 3320 triangles
+[2024.01.12-19.06.55:676][451]LogSkeletalMesh: Section 7: Material=7, 74112 triangles
+[2024.01.12-19.06.55:770][451]LogSkeletalMesh: Building Skeletal Mesh PP...
+[2024.01.12-19.06.55:819][451]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PP) ...
+[2024.01.12-19.06.56:194][451]LogSkeletalMesh: Display: /Game/PP/PP.PP ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.01.12-19.06.58:477][451]LogSkeletalMesh: Built Skeletal Mesh [2.71s] /Game/PP/PP.PP
+[2024.01.12-19.06.58:987][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.06.58:987][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.06.59:073][451]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-19.06.59:073][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-19.06.59:120][451]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PP) ...
+[2024.01.12-19.06.59:268][451]FBXImport: FBX File Loading: Found name clash, node 'joint4' was renamed to 'joint41' 
+[2024.01.12-19.06.59:268][451]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2024.01.12-19.06.59:268][451]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2024.01.12-19.06.59:268][451]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.12-19.06.59:785][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.07.01:217][545]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.12-19.07.01:228][545]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.12-19.07.02:168][626]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-19.07.02:177][626]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-19.07.04:642][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.12-19.07.04:656][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.12-19.07.05:706][843]LogSlate: Window 'Save Content' being destroyed
+[2024.01.12-19.07.05:719][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-19.07.05:800][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.12-19.07.05:810][843]LogSavePackage: Moving output files for package: /Game/NewLevels/Ciudad
+[2024.01.12-19.07.05:811][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/CiudadC1EA5CC74C2C034A5853D6A002C4E7FF.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/NewLevels/Ciudad.umap'
+[2024.01.12-19.07.06:014][843]LogFileHelpers: Saving map 'Ciudad' took 0.227
+[2024.01.12-19.07.08:104][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.01.12-19.07.23:546][843]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (15.200 seconds, threshold is 0.300 s), will parallelize next time.
+[2024.01.12-19.07.23:548][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049919s
+[2024.01.12-19.07.36:439][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005078s (12.939005s overbudget)
+[2024.01.12-19.07.36:484][843]LogShaderCompilers: Display: ================================================
+[2024.01.12-19.07.36:484][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.12-19.07.36:484][843]LogShaderCompilers: Display: Total job queries 322, among them cache hits 0 (0.00%)
+[2024.01.12-19.07.36:484][843]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 27 distinct outputs (32.93%)
+[2024.01.12-19.07.36:484][843]LogShaderCompilers: Display: RAM used: 1.73 MiB of 819.20 MiB budget. Usage: 0.21%
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Shaders Compiled: 82
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100.00%)
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Average time worker was idle: 18.36 s
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Time job spent in pending queue: average 14.30 s, longest 29.52 s
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 16.22 s
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Job life time (pending + execution): average 16.23 s, max 30.33
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 53.87 s
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Jobs were issued in 82 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Average processing rate: 1.52 jobs/sec
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Total thread time: 96.959 s
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Total thread preprocess time: 3.858 s
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Percentage time preprocessing: 3.98%
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 2.02 sec, max 2.66 sec, min 1.03 sec)
+[2024.01.12-19.07.36:485][843]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   13 times, average 1.41 sec, max 3.95 sec, min 0.68 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.35 sec, max 4.02 sec, min 0.79 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   12 times, average 1.31 sec, max 3.71 sec, min 0.59 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 1.20 sec, max 1.58 sec, min 0.71 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.92% of total time (compiled   13 times, average 1.41 sec, max 3.95 sec, min 0.68 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.22% of total time (compiled   12 times, average 1.31 sec, max 3.71 sec, min 0.59 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.57% of total time (compiled    9 times, average 1.35 sec, max 4.02 sec, min 0.79 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.48% of total time (compiled    6 times, average 2.02 sec, max 2.66 sec, min 1.03 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.63% of total time (compiled   12 times, average 0.86 sec, max 1.38 sec, min 0.45 sec)
+[2024.01.12-19.07.36:486][843]LogShaderCompilers: Display: ================================================
+[2024.01.12-19.07.36:544][843]LogSavePackage: Moving output files for package: /Game/PP/aiStandardSurface1
+[2024.01.12-19.07.36:544][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/aiStandardSurface1E3796A6749914C1A2C929F9760056E6F.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/aiStandardSurface1.uasset'
+[2024.01.12-19.07.36:635][843]LogSavePackage: Moving output files for package: /Game/NewLevels/Blocking/Blocking
+[2024.01.12-19.07.36:635][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/BlockingB79C6DAE4F4A87B8F4A2F6A5F43C2DFE.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/NewLevels/Blocking/Blocking.uasset'
+[2024.01.12-19.07.38:672][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.07.40:486][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005105s (1.814653s overbudget)
+[2024.01.12-19.07.40:546][843]LogSavePackage: Moving output files for package: /Game/NewLevels/Blocking/lambert1
+[2024.01.12-19.07.40:546][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/lambert1341BCFC343A3CACCE606198851B2FE61.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/NewLevels/Blocking/lambert1.uasset'
+[2024.01.12-19.07.42:748][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.07.51:503][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000963s (8.756127s overbudget)
+[2024.01.12-19.07.51:515][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PP/lambert1" FILE="../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/lambert1.uasset" SILENT=true
+[2024.01.12-19.07.51:517][843]LogSavePackage: Moving output files for package: /Game/PP/lambert1
+[2024.01.12-19.07.51:517][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/lambert1312F604448B42845F805EFA232E41E05.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/lambert1.uasset'
+[2024.01.12-19.07.51:519][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.07.51:571][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PP/PP" FILE="../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/PP.uasset" SILENT=true
+[2024.01.12-19.07.52:122][843]LogSavePackage: Moving output files for package: /Game/PP/PP
+[2024.01.12-19.07.52:122][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/PP25C7A9DF4D2A28BE4F1B5CAA85AF7E97.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/PP.uasset'
+[2024.01.12-19.07.52:124][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.07.52:148][843]LogSavePackage: Moving output files for package: /Game/PP/PP_PhysicsAsset
+[2024.01.12-19.07.52:148][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/PP_PhysicsAssetA0D73BA94A63281F6535B1A2DAD6F7CD.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/PP_PhysicsAsset.uasset'
+[2024.01.12-19.07.52:174][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PP/PP_Skeleton" FILE="../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/PP_Skeleton.uasset" SILENT=true
+[2024.01.12-19.07.52:183][843]LogSavePackage: Moving output files for package: /Game/PP/PP_Skeleton
+[2024.01.12-19.07.52:183][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/PP_SkeletonA2B7F0434EE94E86A02F5D9AC60DAF80.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/PP_Skeleton.uasset'
+[2024.01.12-19.07.54:257][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.08.03:298][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005479s (9.047091s overbudget)
+[2024.01.12-19.08.03:402][843]LogSavePackage: Moving output files for package: /Game/PP/standardSurface2
+[2024.01.12-19.08.03:402][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/standardSurface20F00AED543CD2CD44D65E19A4FC441D6.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/standardSurface2.uasset'
+[2024.01.12-19.08.05:455][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.08.10:814][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003267s (5.362187s overbudget)
+[2024.01.12-19.08.10:860][843]LogSavePackage: Moving output files for package: /Game/PP/standardSurface3
+[2024.01.12-19.08.10:861][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/standardSurface3CB7E6AEE47121E56C2050E94C869AAE4.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/standardSurface3.uasset'
+[2024.01.12-19.08.12:967][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.08.18:066][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004262s (5.102704s overbudget)
+[2024.01.12-19.08.18:112][843]LogSavePackage: Moving output files for package: /Game/PP/standardSurface4
+[2024.01.12-19.08.18:112][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/standardSurface45A87507F4E310A6937C2B89B8FF945BF.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/standardSurface4.uasset'
+[2024.01.12-19.08.20:237][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.08.25:317][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000180s (5.083810s overbudget)
+[2024.01.12-19.08.25:339][843]LogSavePackage: Moving output files for package: /Game/PP/standardSurface5
+[2024.01.12-19.08.25:339][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/standardSurface515104749452FC2FCC13790A554C06277.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/standardSurface5.uasset'
+[2024.01.12-19.08.27:420][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.08.32:804][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003254s (5.386278s overbudget)
+[2024.01.12-19.08.32:853][843]LogSavePackage: Moving output files for package: /Game/PP/standardSurface6
+[2024.01.12-19.08.32:853][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/standardSurface60671963C4A2F0BBDD54F758AD76C398D.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/standardSurface6.uasset'
+[2024.01.12-19.08.34:969][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.12-19.08.40:360][843]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002180s (5.394424s overbudget)
+[2024.01.12-19.08.40:408][843]LogSavePackage: Moving output files for package: /Game/PP/standardSurface8
+[2024.01.12-19.08.40:409][843]LogSavePackage: Moving '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Saved/standardSurface81FA99C1C4F15FAB12354E4B9B951E073.tmp' to '../../../../../UNIVERSIDAD/5to SEMESTRE/Taller de Videojuegos/FinalPart/LastOfUniat/TheLastOfUniat/Content/PP/standardSurface8.uasset'
+[2024.01.12-19.08.40:424][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 1:34 min
+[2024.01.12-19.08.40:466][843]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.12-19.08.40:466][843]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/PP/PP_PhysicsAsset.PP_PhysicsAsset
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/PP/PP_Skeleton.PP_Skeleton
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/aiStandardSurface1.aiStandardSurface1
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/lambert1.lambert1
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/standardSurface4.standardSurface4
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/standardSurface6.standardSurface6
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/standardSurface2.standardSurface2
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/standardSurface8.standardSurface8
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/standardSurface3.standardSurface3
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PP/standardSurface5.standardSurface5
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/PP/PP.PP
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewLevels/Blocking/lambert1.lambert1
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/NewLevels/Blocking/Blocking.Blocking
+[2024.01.12-19.08.40:467][843]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewLevels/Ciudad.Ciudad
+[2024.01.12-19.09.07:438][532]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/PP/PP.PP
+[2024.01.12-19.09.07:984][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.09.07:985][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-19.09.08:064][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.12-19.09.09:441][532]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.01.12-19.09.13:716][532]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049838s
+[2024.01.12-19.09.13:736][532]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002197s (0.067762s overbudget)
+[2024.01.12-19.09.13:882][532]LogViewport: Scene viewport resized to 616x554, mode Windowed.
+[2024.01.12-19.09.30:677][575]Cmd: TRANSACTION UNDO
+[2024.01.12-19.09.30:677][575]LogEditorTransaction: Undo Translate Bone
+[2024.01.12-19.09.31:261][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.12-19.10.01:476][263]Cmd: TRANSACTION UNDO
+[2024.01.12-19.10.01:476][263]LogEditorTransaction: Undo Rotate Bone
+[2024.01.12-19.10.02:128][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.12-19.10.13:388][189]Cmd: TRANSACTION UNDO
+[2024.01.12-19.10.13:388][189]LogEditorTransaction: Undo Rotate Bone
+[2024.01.12-19.10.13:732][189]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.12-19.10.22:480][963]Cmd: TRANSACTION UNDO
+[2024.01.12-19.10.22:480][963]LogEditorTransaction: Undo Rotate Bone
+[2024.01.12-19.10.23:015][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.12-19.10.43:080][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-19.10.46:427][988]LogShaderCompilers: Display: ================================================
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Total job queries 524, among them cache hits 0 (0.00%)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Tracking 281 distinct input hashes that result in 27 distinct outputs (9.61%)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: RAM used: 6.62 MiB of 819.20 MiB budget. Usage: 0.81%
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Shaders Compiled: 281
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Jobs assigned 284, completed 281 (98.94%)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Average time worker was idle: 6.51 s
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Time job spent in pending queue: average 6.68 s, longest 29.52 s
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 16.22 s
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Job life time (pending + execution): average 7.96 s, max 30.33
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 119.75 s
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Jobs were issued in 284 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Average processing rate: 2.35 jobs/sec
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Total thread time: 262.782 s
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Total thread preprocess time: 10.981 s
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Percentage time preprocessing: 4.18%
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Effective parallelization: 2.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   14 times, average 1.33 sec, max 3.71 sec, min 0.59 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   21 times, average 1.25 sec, max 3.95 sec, min 0.66 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 1.21 sec, max 4.02 sec, min 0.79 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 1.20 sec, max 1.58 sec, min 0.71 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   21 times, average 1.18 sec, max 2.66 sec, min 0.79 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.98% of total time (compiled   21 times, average 1.25 sec, max 3.95 sec, min 0.66 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.41% of total time (compiled   21 times, average 1.18 sec, max 2.66 sec, min 0.79 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.81% of total time (compiled   17 times, average 1.21 sec, max 4.02 sec, min 0.79 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.10% of total time (compiled   14 times, average 1.33 sec, max 3.71 sec, min 0.59 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.98% of total time (compiled   17 times, average 0.92 sec, max 1.51 sec, min 0.84 sec)
+[2024.01.12-19.10.46:428][988]LogShaderCompilers: Display: ================================================
