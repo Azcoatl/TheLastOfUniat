@@ -1,0 +1,8 @@
+2024/01/12-01:16:12.726 7d54 Reusing MANIFEST C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-01:16:12.726 7d54 Recovering log #4
+2024/01/12-01:16:12.727 7d54 Reusing old log C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/01/12-01:20:34.995 72f4 Level-0 table #8: started
+2024/01/12-01:20:34.995 72f4 Level-0 table #8: 0 bytes OK
+2024/01/12-01:20:34.996 72f4 Delete type=0 #4
+2024/01/12-01:20:34.997 72f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/12-01:20:34.997 72f4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
