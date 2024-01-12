@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/GameMenu.umap",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/WB_MainMenu.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/ideajuegoP45S.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/BP_MainMenuGameMode.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/BP_ShowMM.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/BP_MainMenu_PC.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/WB_PauseMenu.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/IA_PauseGame.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/BP_ThirdPersonCharacter.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/WBP_SettingsMenu.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/BP_SaveGame.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/BP_PauseMenu_PC.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/ThirdPerson/Input/Actions/IA_PauseGame.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/MainMenu.umap",
+				"D:/escuela/UnrealProjects/TheLastOfUniat/Content/Menu/NewWidgetBlueprint.uasset",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/TheLastOfUniat/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
