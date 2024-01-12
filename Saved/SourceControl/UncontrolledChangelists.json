@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Content/Meyer/UW_HUD.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Content/Meyer/BP_CharacterController.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/TheLastOfUniat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/IC/ZV9ED4A22PBKGGMI5C3KGB.uasset",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/TheLastOfUniat/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
