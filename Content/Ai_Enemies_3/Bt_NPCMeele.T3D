@@ -1,0 +1,336 @@
+Begin Object Class=/Script/AIModule.BehaviorTree Name="Bt_NPCMeele" ExportPath=/Script/AIModule.BehaviorTree'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele"'
+   Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraph Name="Behavior Tree" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraph'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree"'
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite Name="BehaviorTreeGraphNode_Composite_0" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_0"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite Name="BehaviorTreeGraphNode_Composite_1" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_1"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite Name="BehaviorTreeGraphNode_Composite_2" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_2"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite Name="BehaviorTreeGraphNode_Composite_3" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_3"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite Name="BehaviorTreeGraphNode_Composite_4" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_4"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite Name="BehaviorTreeGraphNode_Composite_5" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_5"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator Name="BehaviorTreeGraphNode_Decorator_15" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_15"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator Name="BehaviorTreeGraphNode_Decorator_66" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_66"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator Name="BehaviorTreeGraphNode_Decorator_91" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_91"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Root Name="BehaviorTreeGraphNode_Root_0" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Root'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Root_0"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task Name="BehaviorTreeGraphNode_Task_0" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_0"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task Name="BehaviorTreeGraphNode_Task_1" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_1"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task Name="BehaviorTreeGraphNode_Task_12" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_12"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task Name="BehaviorTreeGraphNode_Task_2" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_2"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task Name="BehaviorTreeGraphNode_Task_3" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_3"'
+      End Object
+      Begin Object Class=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task Name="BehaviorTreeGraphNode_Task_9" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_9"'
+      End Object
+   End Object
+   Begin Object Class=/Script/AIModule.BTComposite_Selector Name="BTComposite_Selector_0" ExportPath=/Script/AIModule.BTComposite_Selector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Selector_0"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTComposite_Selector Name="BTComposite_Selector_1" ExportPath=/Script/AIModule.BTComposite_Selector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Selector_1"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTComposite_Selector Name="BTComposite_Selector_2" ExportPath=/Script/AIModule.BTComposite_Selector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Selector_2"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTComposite_Sequence Name="BTComposite_Sequence_0" ExportPath=/Script/AIModule.BTComposite_Sequence'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Sequence_0"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTComposite_Sequence Name="BTComposite_Sequence_1" ExportPath=/Script/AIModule.BTComposite_Sequence'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Sequence_1"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTComposite_Sequence Name="BTComposite_Sequence_2" ExportPath=/Script/AIModule.BTComposite_Sequence'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Sequence_2"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTDecorator_Blackboard Name="BTDecorator_Blackboard_0" ExportPath=/Script/AIModule.BTDecorator_Blackboard'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTDecorator_Blackboard_0"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTDecorator_Blackboard Name="BTDecorator_Blackboard_1" ExportPath=/Script/AIModule.BTDecorator_Blackboard'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTDecorator_Blackboard_1"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTDecorator_Blackboard Name="BTDecorator_Blackboard_2" ExportPath=/Script/AIModule.BTDecorator_Blackboard'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTDecorator_Blackboard_2"'
+   End Object
+   Begin Object Class=/Game/FirstPerson/Blueprints/BTTask_ClearBlackboardValue.BTTask_ClearBlackboardValue_C Name="BTTask_ClearBlackboardValue_C_0" ExportPath=/Game/FirstPerson/Blueprints/BTTask_ClearBlackboardValue.BTTask_ClearBlackboardValue_C'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_ClearBlackboardValue_C_0"'
+   End Object
+   Begin Object Class=/Game/FirstPerson/Blueprints/Task/BTTask_MoveRandom.BTTask_MoveRandom_C Name="BTTask_MoveRandom_C_0" ExportPath=/Game/FirstPerson/Blueprints/Task/BTTask_MoveRandom.BTTask_MoveRandom_C'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveRandom_C_0"'
+   End Object
+   Begin Object Class=/Script/AIModule.BTTask_MoveTo Name="BTTask_MoveTo_0" ExportPath=/Script/AIModule.BTTask_MoveTo'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_0"'
+      Begin Object Class=/Script/AIModule.BlackboardKeyType_Object Name="BlackboardKey_Object_0" Archetype=/Script/AIModule.BlackboardKeyType_Object'/Script/AIModule.Default__BTTask_MoveTo:BlackboardKey_Object_0' ExportPath=/Script/AIModule.BlackboardKeyType_Object'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_0.BlackboardKey_Object_0"'
+      End Object
+      Begin Object Class=/Script/AIModule.BlackboardKeyType_Vector Name="BlackboardKey_Vector" Archetype=/Script/AIModule.BlackboardKeyType_Vector'/Script/AIModule.Default__BTTask_MoveTo:BlackboardKey_Vector' ExportPath=/Script/AIModule.BlackboardKeyType_Vector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_0.BlackboardKey_Vector"'
+      End Object
+   End Object
+   Begin Object Class=/Script/AIModule.BTTask_MoveTo Name="BTTask_MoveTo_1" ExportPath=/Script/AIModule.BTTask_MoveTo'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_1"'
+      Begin Object Class=/Script/AIModule.BlackboardKeyType_Object Name="BlackboardKey_Object_0" Archetype=/Script/AIModule.BlackboardKeyType_Object'/Script/AIModule.Default__BTTask_MoveTo:BlackboardKey_Object_0' ExportPath=/Script/AIModule.BlackboardKeyType_Object'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_1.BlackboardKey_Object_0"'
+      End Object
+      Begin Object Class=/Script/AIModule.BlackboardKeyType_Vector Name="BlackboardKey_Vector" Archetype=/Script/AIModule.BlackboardKeyType_Vector'/Script/AIModule.Default__BTTask_MoveTo:BlackboardKey_Vector' ExportPath=/Script/AIModule.BlackboardKeyType_Vector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_1.BlackboardKey_Vector"'
+      End Object
+   End Object
+   Begin Object Class=/Script/AIModule.BTTask_MoveTo Name="BTTask_MoveTo_2" ExportPath=/Script/AIModule.BTTask_MoveTo'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_2"'
+      Begin Object Class=/Script/AIModule.BlackboardKeyType_Object Name="BlackboardKey_Object_0" Archetype=/Script/AIModule.BlackboardKeyType_Object'/Script/AIModule.Default__BTTask_MoveTo:BlackboardKey_Object_0' ExportPath=/Script/AIModule.BlackboardKeyType_Object'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_2.BlackboardKey_Object_0"'
+      End Object
+      Begin Object Class=/Script/AIModule.BlackboardKeyType_Vector Name="BlackboardKey_Vector" Archetype=/Script/AIModule.BlackboardKeyType_Vector'/Script/AIModule.Default__BTTask_MoveTo:BlackboardKey_Vector' ExportPath=/Script/AIModule.BlackboardKeyType_Vector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_2.BlackboardKey_Vector"'
+      End Object
+   End Object
+   Begin Object Class=/Script/AIModule.BTTask_Wait Name="BTTask_Wait_0" ExportPath=/Script/AIModule.BTTask_Wait'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_Wait_0"'
+   End Object
+   Begin Object Name="Behavior Tree" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraph'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree"'
+      Begin Object Name="BehaviorTreeGraphNode_Composite_0" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_0"'
+         Decorators(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_15"'
+         ClassData=(ClassName="BTComposite_Sequence")
+         NodeInstance=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_0"'
+         SubNodes(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_15"'
+         NodePosX=-288
+         NodePosY=272
+         NodeGuid=840710C04C1E67F0B0348F957368ADE2
+         CustomProperties Pin (PinId=340AE5A240DAD200C58D3CB65EC91947,PinName="In",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_1 2CEACBBB437EDA64C5ABBBB1E58C2F00,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=BEA807314E895F12E45EED8031E0C923,PinName="Out",Direction="EGPD_Output",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_4 0EBDDD3C4DC15A71B5A0C88F5F728802,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Composite_1" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_1"'
+         ClassData=(ClassName="BTComposite_Selector")
+         NodeInstance=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_0"'
+         NodePosX=-16
+         NodePosY=144
+         NodeGuid=026D5BE14A630132414A338EE550DFD7
+         CustomProperties Pin (PinId=74952BC4411449230B3220B822E0A124,PinName="In",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Root_0 F98A53214B0DB57336645EA9112A2A7B,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=2CEACBBB437EDA64C5ABBBB1E58C2F00,PinName="Out",Direction="EGPD_Output",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_0 340AE5A240DAD200C58D3CB65EC91947,BehaviorTreeGraphNode_Composite_3 99FBCBD14D7C11FCCE1365816FC74923,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Composite_2" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_2"'
+         Decorators(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_91"'
+         ClassData=(ClassName="BTComposite_Sequence")
+         NodeInstance=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_1"'
+         SubNodes(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_91"'
+         NodePosX=128
+         NodePosY=496
+         NodeGuid=594402E7474185DB3041E8852FA3B77A
+         CustomProperties Pin (PinId=D6D7E2FF4A4C6D1E8D81F2A9EA2531E4,PinName="In",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_3 6CE09680420A2C143436F094753B3D8E,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=B1E08D964F598056D0B2E7BB67240F64,PinName="Out",Direction="EGPD_Output",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Task_12 D4A57EA64AB0A8A6AED350B11A3A4F6B,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Composite_3" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_3"'
+         ClassData=(ClassName="BTComposite_Selector")
+         NodeInstance=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_1"'
+         NodePosX=256
+         NodePosY=320
+         NodeGuid=27E2BAC94D1DF0328373F58237CFFE62
+         CustomProperties Pin (PinId=99FBCBD14D7C11FCCE1365816FC74923,PinName="In",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_1 2CEACBBB437EDA64C5ABBBB1E58C2F00,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=6CE09680420A2C143436F094753B3D8E,PinName="Out",Direction="EGPD_Output",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_2 D6D7E2FF4A4C6D1E8D81F2A9EA2531E4,BehaviorTreeGraphNode_Task_0 EBAE0D5145876DFB6D0DB0A239ECEECE,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Composite_4" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_4"'
+         ClassData=(ClassName="BTComposite_Selector")
+         NodeInstance=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_2"'
+         NodePosX=-224
+         NodePosY=496
+         NodeGuid=C36EF27B444A39FB0D997BBC5CF722C9
+         CustomProperties Pin (PinId=0EBDDD3C4DC15A71B5A0C88F5F728802,PinName="In",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_0 BEA807314E895F12E45EED8031E0C923,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=D8A4F6B5443D1BBCBA0FF5AB40620723,PinName="Out",Direction="EGPD_Output",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_5 E1426DA14BF8C10D0B6BEB804AE3D7E3,BehaviorTreeGraphNode_Task_9 E0F2C6BA4CB4157834D864AC6397F927,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Composite_5" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Composite_5"'
+         Decorators(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_66"'
+         ClassData=(ClassName="BTComposite_Sequence")
+         NodeInstance=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_2"'
+         SubNodes(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_66"'
+         NodePosX=-496
+         NodePosY=672
+         NodeGuid=F05D35094431DCD83E2F1ABA3A53634C
+         CustomProperties Pin (PinId=E1426DA14BF8C10D0B6BEB804AE3D7E3,PinName="In",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_4 D8A4F6B5443D1BBCBA0FF5AB40620723,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=8EF79D634A40DDE6886A13A799FD6BB1,PinName="Out",Direction="EGPD_Output",PinType.PinCategory="MultipleNodes",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Task_1 B5CF114F467669B4767A49A24BDC3819,BehaviorTreeGraphNode_Task_2 7A50655942351B7C2AC7E1A93994C51B,BehaviorTreeGraphNode_Task_3 72E2BBD3494779F2D00F3285E857023F,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Decorator_15" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_15"'
+         ClassData=(ClassName="BTDecorator_Blackboard")
+         NodeInstance=/Script/AIModule.BTDecorator_Blackboard'"Bt_NPCMeele:BTDecorator_Blackboard_0"'
+         NodeGuid=0FF374E24ADB8B6FE54FB2B9D1CBE2B6
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Decorator_66" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_66"'
+         ClassData=(ClassName="BTDecorator_Blackboard")
+         NodeInstance=/Script/AIModule.BTDecorator_Blackboard'"Bt_NPCMeele:BTDecorator_Blackboard_2"'
+         NodeGuid=D58949A945BF13DA16F75188C2622693
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Decorator_91" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Decorator'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Decorator_91"'
+         ClassData=(ClassName="BTDecorator_Blackboard")
+         NodeInstance=/Script/AIModule.BTDecorator_Blackboard'"Bt_NPCMeele:BTDecorator_Blackboard_1"'
+         NodeGuid=31F2EA554C1BDB736746AB9FACD3C65C
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Root_0" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Root'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Root_0"'
+         BlackboardAsset=/Script/AIModule.BlackboardData'"/Game/FirstPerson/Blueprints/Bb_NPC.Bb_NPC"'
+         NodeGuid=E78C7242474536AC84B7E6B83F2B2068
+         CustomProperties Pin (PinId=F98A53214B0DB57336645EA9112A2A7B,PinName="In",Direction="EGPD_Output",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_1 74952BC4411449230B3220B822E0A124,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Task_0" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_0"'
+         ClassData=(ClassName="BTTask_MoveTo")
+         NodeInstance=/Script/AIModule.BTTask_MoveTo'"Bt_NPCMeele:BTTask_MoveTo_1"'
+         NodePosX=528
+         NodePosY=496
+         NodeGuid=98E31679421AA5667AB53AA9E8EC73EE
+         CustomProperties Pin (PinId=EBAE0D5145876DFB6D0DB0A239ECEECE,PinName="In",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_3 6CE09680420A2C143436F094753B3D8E,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Task_1" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_1"'
+         ClassData=(ClassName="BTTask_MoveTo")
+         NodeInstance=/Script/AIModule.BTTask_MoveTo'"Bt_NPCMeele:BTTask_MoveTo_2"'
+         NodePosX=-688
+         NodePosY=896
+         NodeGuid=6952DEF241D6101989C61A939FABE018
+         CustomProperties Pin (PinId=B5CF114F467669B4767A49A24BDC3819,PinName="In",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_5 8EF79D634A40DDE6886A13A799FD6BB1,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Task_12" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_12"'
+         ClassData=(ClassName="BTTask_MoveTo")
+         NodeInstance=/Script/AIModule.BTTask_MoveTo'"Bt_NPCMeele:BTTask_MoveTo_0"'
+         NodePosX=176
+         NodePosY=720
+         NodeGuid=E4DEA4DB471DECCFFFCE1A802BCD08B2
+         CustomProperties Pin (PinId=D4A57EA64AB0A8A6AED350B11A3A4F6B,PinName="In",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_2 B1E08D964F598056D0B2E7BB67240F64,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Task_2" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_2"'
+         ClassData=(ClassName="BTTask_Wait")
+         NodeInstance=/Script/AIModule.BTTask_Wait'"Bt_NPCMeele:BTTask_Wait_0"'
+         NodePosX=-496
+         NodePosY=896
+         NodeGuid=47BBB84043E45D74F80B9987A0AD4BA3
+         CustomProperties Pin (PinId=7A50655942351B7C2AC7E1A93994C51B,PinName="In",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_5 8EF79D634A40DDE6886A13A799FD6BB1,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Task_3" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_3"'
+         ClassData=(AssetName="BTTask_ClearBlackboardValue",GeneratedClassPackage="/Game/FirstPerson/Blueprints/BTTask_ClearBlackboardValue",ClassName="BTTask_ClearBlackboardValue_C")
+         NodeInstance=/Game/FirstPerson/Blueprints/BTTask_ClearBlackboardValue.BTTask_ClearBlackboardValue_C'"Bt_NPCMeele:BTTask_ClearBlackboardValue_C_0"'
+         NodePosX=-384
+         NodePosY=880
+         NodeGuid=5379E7FA4CED899C3722968054000202
+         CustomProperties Pin (PinId=72E2BBD3494779F2D00F3285E857023F,PinName="In",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_5 8EF79D634A40DDE6886A13A799FD6BB1,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="BehaviorTreeGraphNode_Task_9" ExportPath=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree.BehaviorTreeGraphNode_Task_9"'
+         ClassData=(AssetName="BTTask_MoveRandom",GeneratedClassPackage="/Game/FirstPerson/Blueprints/Task/BTTask_MoveRandom",ClassName="BTTask_MoveRandom_C")
+         NodeInstance=/Game/FirstPerson/Blueprints/Task/BTTask_MoveRandom.BTTask_MoveRandom_C'"Bt_NPCMeele:BTTask_MoveRandom_C_0"'
+         NodePosX=-144
+         NodePosY=672
+         NodeGuid=AD3BBFEC4A9D4B776B57D5A502CECA58
+         CustomProperties Pin (PinId=E0F2C6BA4CB4157834D864AC6397F927,PinName="In",PinType.PinCategory="SingleComposite",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(BehaviorTreeGraphNode_Composite_4 D8A4F6B5443D1BBCBA0FF5AB40620723,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      ModCounter=33
+      bIsUsingModCounter=True
+      GraphVersion=3
+      Nodes(0)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Root'"BehaviorTreeGraphNode_Root_0"'
+      Nodes(1)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"BehaviorTreeGraphNode_Composite_1"'
+      Nodes(2)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"BehaviorTreeGraphNode_Composite_0"'
+      Nodes(3)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"BehaviorTreeGraphNode_Task_9"'
+      Nodes(4)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"BehaviorTreeGraphNode_Composite_2"'
+      Nodes(5)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"BehaviorTreeGraphNode_Task_12"'
+      Nodes(6)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"BehaviorTreeGraphNode_Composite_3"'
+      Nodes(7)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"BehaviorTreeGraphNode_Task_0"'
+      Nodes(8)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"BehaviorTreeGraphNode_Composite_4"'
+      Nodes(9)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Composite'"BehaviorTreeGraphNode_Composite_5"'
+      Nodes(10)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"BehaviorTreeGraphNode_Task_1"'
+      Nodes(11)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"BehaviorTreeGraphNode_Task_2"'
+      Nodes(12)=/Script/BehaviorTreeEditor.BehaviorTreeGraphNode_Task'"BehaviorTreeGraphNode_Task_3"'
+      GraphGuid=F197AC774EA3BF158D16CDADCCA503AC
+   End Object
+   Begin Object Name="BTComposite_Selector_0" ExportPath=/Script/AIModule.BTComposite_Selector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Selector_0"'
+      Children(0)=(ChildComposite=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_0"',Decorators=(/Script/AIModule.BTDecorator_Blackboard'"Bt_NPCMeele:BTDecorator_Blackboard_0"'))
+      Children(1)=(ChildComposite=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_1"')
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+   End Object
+   Begin Object Name="BTComposite_Selector_1" ExportPath=/Script/AIModule.BTComposite_Selector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Selector_1"'
+      Children(0)=(ChildComposite=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_1"',Decorators=(/Script/AIModule.BTDecorator_Blackboard'"Bt_NPCMeele:BTDecorator_Blackboard_1"'))
+      Children(1)=(ChildTask=/Script/AIModule.BTTask_MoveTo'"Bt_NPCMeele:BTTask_MoveTo_1"')
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_0"'
+   End Object
+   Begin Object Name="BTComposite_Selector_2" ExportPath=/Script/AIModule.BTComposite_Selector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Selector_2"'
+      Children(0)=(ChildComposite=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_2"',Decorators=(/Script/AIModule.BTDecorator_Blackboard'"Bt_NPCMeele:BTDecorator_Blackboard_2"'))
+      Children(1)=(ChildTask=/Game/FirstPerson/Blueprints/Task/BTTask_MoveRandom.BTTask_MoveRandom_C'"Bt_NPCMeele:BTTask_MoveRandom_C_0"')
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_0"'
+   End Object
+   Begin Object Name="BTComposite_Sequence_0" ExportPath=/Script/AIModule.BTComposite_Sequence'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Sequence_0"'
+      Children(0)=(ChildComposite=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_2"')
+      NodeName="SeqRoaming"
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_0"'
+   End Object
+   Begin Object Name="BTComposite_Sequence_1" ExportPath=/Script/AIModule.BTComposite_Sequence'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Sequence_1"'
+      Children(0)=(ChildTask=/Script/AIModule.BTTask_MoveTo'"Bt_NPCMeele:BTTask_MoveTo_0"')
+      NodeName="SeqChase"
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_1"'
+   End Object
+   Begin Object Name="BTComposite_Sequence_2" ExportPath=/Script/AIModule.BTComposite_Sequence'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTComposite_Sequence_2"'
+      Children(0)=(ChildTask=/Script/AIModule.BTTask_MoveTo'"Bt_NPCMeele:BTTask_MoveTo_2"')
+      Children(1)=(ChildTask=/Script/AIModule.BTTask_Wait'"Bt_NPCMeele:BTTask_Wait_0"')
+      Children(2)=(ChildTask=/Game/FirstPerson/Blueprints/BTTask_ClearBlackboardValue.BTTask_ClearBlackboardValue_C'"Bt_NPCMeele:BTTask_ClearBlackboardValue_C_0"')
+      NodeName="SeqInvestigation"
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_2"'
+   End Object
+   Begin Object Name="BTDecorator_Blackboard_0" ExportPath=/Script/AIModule.BTDecorator_Blackboard'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTDecorator_Blackboard_0"'
+      CachedDescription="TargetActor is Is Not Set"
+      OperationType=1
+      BasicOperation=NotSet
+      BlackboardKey=(SelectedKeyName="TargetActor")
+      FlowAbortMode=Self
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_0"'
+   End Object
+   Begin Object Name="BTDecorator_Blackboard_1" ExportPath=/Script/AIModule.BTDecorator_Blackboard'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTDecorator_Blackboard_1"'
+      CachedDescription="TargetActor is Is Set"
+      BlackboardKey=(SelectedKeyName="TargetActor")
+      FlowAbortMode=Both
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_1"'
+   End Object
+   Begin Object Name="BTDecorator_Blackboard_2" ExportPath=/Script/AIModule.BTDecorator_Blackboard'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTDecorator_Blackboard_2"'
+      CachedDescription="TargetLocation is Is Set"
+      BlackboardKey=(SelectedKeyName="TargetLocation")
+      FlowAbortMode=Self
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_2"'
+   End Object
+   Begin Object Name="BTTask_ClearBlackboardValue_C_0" ExportPath=/Game/FirstPerson/Blueprints/BTTask_ClearBlackboardValue.BTTask_ClearBlackboardValue_C'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_ClearBlackboardValue_C_0"'
+      BlackboardKey=(SelectedKeyName="TargetLocation")
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_2"'
+   End Object
+   Begin Object Name="BTTask_MoveRandom_C_0" ExportPath=/Game/FirstPerson/Blueprints/Task/BTTask_MoveRandom.BTTask_MoveRandom_C'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveRandom_C_0"'
+      Radius=1500.000000
+      Acceptance Radius=100.000000
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_2"'
+   End Object
+   Begin Object Name="BTTask_MoveTo_0" ExportPath=/Script/AIModule.BTTask_MoveTo'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_0"'
+      Begin Object Name="BlackboardKey_Object_0" ExportPath=/Script/AIModule.BlackboardKeyType_Object'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_0.BlackboardKey_Object_0"'
+      End Object
+      Begin Object Name="BlackboardKey_Vector" ExportPath=/Script/AIModule.BlackboardKeyType_Vector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_0.BlackboardKey_Vector"'
+      End Object
+      bStopOnOverlapNeedsUpdate=False
+      BlackboardKey=(SelectedKeyName="TargetActor")
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_1"'
+   End Object
+   Begin Object Name="BTTask_MoveTo_1" ExportPath=/Script/AIModule.BTTask_MoveTo'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_1"'
+      Begin Object Name="BlackboardKey_Object_0" ExportPath=/Script/AIModule.BlackboardKeyType_Object'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_1.BlackboardKey_Object_0"'
+      End Object
+      Begin Object Name="BlackboardKey_Vector" ExportPath=/Script/AIModule.BlackboardKeyType_Vector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_1.BlackboardKey_Vector"'
+      End Object
+      bStopOnOverlapNeedsUpdate=False
+      BlackboardKey=(SelectedKeyName="LastLocation")
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Selector'"Bt_NPCMeele:BTComposite_Selector_1"'
+   End Object
+   Begin Object Name="BTTask_MoveTo_2" ExportPath=/Script/AIModule.BTTask_MoveTo'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_2"'
+      Begin Object Name="BlackboardKey_Object_0" ExportPath=/Script/AIModule.BlackboardKeyType_Object'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_2.BlackboardKey_Object_0"'
+      End Object
+      Begin Object Name="BlackboardKey_Vector" ExportPath=/Script/AIModule.BlackboardKeyType_Vector'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_MoveTo_2.BlackboardKey_Vector"'
+      End Object
+      bObserveBlackboardValue=True
+      bStopOnOverlapNeedsUpdate=False
+      BlackboardKey=(SelectedKeyName="TargetLocation")
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_2"'
+   End Object
+   Begin Object Name="BTTask_Wait_0" ExportPath=/Script/AIModule.BTTask_Wait'"/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:BTTask_Wait_0"'
+      WaitTime=3.000000
+      TreeAsset=/Script/AIModule.BehaviorTree'"Bt_NPCMeele"'
+      ParentNode=/Script/AIModule.BTComposite_Sequence'"Bt_NPCMeele:BTComposite_Sequence_2"'
+   End Object
+   RootNode=/Script/AIModule.BTComposite_Selector'"BTComposite_Selector_0"'
+   BTGraph=/Script/BehaviorTreeEditor.BehaviorTreeGraph'"Behavior Tree"'
+   LastEditedDocuments(0)=(EditedObjectPath="/Game/FirstPerson/Blueprints/Bt_NPCMeele.Bt_NPCMeele:Behavior Tree",SavedViewOffset=(X=-1107.931474,Y=93.625012),SavedZoomAmount=0.675000)
+   BlackboardAsset=/Script/AIModule.BlackboardData'"/Game/FirstPerson/Blueprints/Bb_NPC.Bb_NPC"'
+End Object
